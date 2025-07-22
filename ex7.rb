@@ -1,8 +1,8 @@
-# Imprime uma string e pula uma linha
+# Imprime uma "string" e pula uma linha
 puts "Mary had a little lamb."
-# Imprime uma string, injetando outra string e pula uma linha
+# Imprime uma "string", injetando outra "string" e pula uma linha
 puts "Its fleece was white as #{'snow'}."
-# Imprime uma string e pula uma linha
+# Imprime uma "string" e pula uma linha
 puts "And everywhere that Mary went."
 # Imprime 10 pontos
 puts "." * 10 # what'd that do?
